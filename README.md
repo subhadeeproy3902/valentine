@@ -1,6 +1,6 @@
 # 🥰 Be My Valentine? 🥰
 
-![Project Image](https://i.postimg.cc/WbPD2nwH/image.png)
+![Project Image](https://i.postimg.cc/x1Gj6Vr0/og-valentine.webp)
 
 Welcome to the most adorable project you've ever seen! This is a special React application designed to ask that special someone: "Will you be my Valentine?".
 
